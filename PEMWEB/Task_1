@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <title>Tugas 2 Fadhilah Fauza Hamda</title>
+</head>
+<body>
+    <h1 class="header" align="center">MY SHOES</h1>
+    <h2 class="header" align="center">Nama Sepatu</h2>
+    <div class="wrap" align="center">
+        <div class="layout" align="center">
+            <div class="box">
+                <img width="150px" src="./Chanky Sneakers.jpeg" alt="Chanky Sneakers">
+                <h3>Chanky Sneakers</h3>
+                <h3>Rp. 350.000</h3>
+            </div>
+    </div>
+        <div class="layout" align="center">
+            <div class="box">
+                <img width="150px" src="./Shein Sneakers.jpeg" alt="Shein Sneakers">
+                <h3>Shein Sneakers</h3>
+                <h3>Rp. 300.000</h3>
+            </div>
+        </div>
+    </div>
+    
+    <form action="Nama Sepatu.html" method="GET" class="form" align="center">
+        <label for="Nama Sepatu"><b>Nama Sepatu</b></label><br>
+        <select name="Nama Sepatu" id="Nama Sepatu">
+            <option value="Chanky">Chanky Sneakers</option>
+            <option value="Shein">Shein Sneakers</option>
+        </select><br><br>
+
+        <label for="size"><b>Size</b></label><br>
+        <select name="Ukuran" id="Ukuran">
+            <option value="36">36</option>
+            <option value="37">37</option>
+            <option value="38">38</option>
+            <option value="39">39</option>
+            <option value="40">40</option>
+        </select><br><br>
+
+        <button class="button">checkout</button>
+    </form>
+
+    
+</body>
+</html>

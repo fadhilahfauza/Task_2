@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Nama Sepatu</title>
+    </head>
+    <style>
+        h1 {
+            color: black;
+        }
+        .tabel {
+            color: black;
+        }
+        .proses {
+            color: black;
+        }
+    </style>
+<body>
+    <h1>Sepatu Berhasil Di Checkout!</h1>
+    <table class="tabel">
+        <tr>
+            <td class="proses">Kepuasaan anda adalah tujuan kami.</td>
+        </tr>
+    </table>
+</body>
+</html>
